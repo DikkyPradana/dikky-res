@@ -1,2 +1,3 @@
 # dikky-res
-Repositorybuat Saya Kedepan
+Repository buat Saya Kedepan
+Belajar git senang
