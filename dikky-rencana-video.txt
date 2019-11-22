@@ -1,11 +1,63 @@
-Rencana Video Channel Sam Dikky
-- Cover Lagu Asli
-  Akustik
-  Koplo
-- Gaming Video
-  "Mobile Legend
-  "Chess Rush
-- Upload Story WA
-- Vlogs
-  "Di Sekolah
-- bicara
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>login google</title>
+	<link rel="stylesheet" type="text/css" href="google.css">
+</head>
+<body >
+<form >
+		
+
+				</div>
+					<img class="o" src="file:///C:/Users/user/Pictures/Saved%20Pictures/google.jpg"
+				<div >
+					<h2 class="e" >Buat Akun Google</h2>
+				</div>
+				<div class="y"><tr>
+					lanjutkan ke gmail
+				</tr></div>
+				<div >
+					<input class="a" type="text" name="nama" placeholder="nama depan">
+				
+					<input class="a" type="text" name="nama" placeholder="nama belakang">
+				</div>
+				<div>
+					<input class="h" type="text" name="nama" placeholder="nama pengguna">
+					<input class="d" type="text" placeholder="@Gmail.com">
+				</div>
+				<div class="t"><tr>anda dapat menggunakan huruf angka dan titik</tr></div>
+				<div >
+					<input  type="password" class="u" placeholder="sandi">
+					<input class="u" type="password" placeholder="konfirmasi">
+				</div>
+				<div class="j"><tr> gunakan minimal 8 karakter dengan campuran hruf angka & simbol</tr>
+				</div>
+				<div class="g">
+					<a href="">login saya</a>
+					
+			</div>
+			<div >
+				
+					<button class="k"  type="submit"><b><a href=""> berikutnya</a></b></button>
+				
+			</div>
+			<div>
+				<img class="q" src="file:///C:/Users/user/Pictures/cara-membuat-email-di-gmail-2.jpg">
+			</div>			
+			</form>
+		<div class="foot">
+			<div class="left">
+				<a href="">Indonesia</a><span class="triangle demo-arrow-down"></span>
+			</div>
+			<div class="right">
+				<ul>
+					<li>Bantuan</li>
+					<li style="padding: 0 30px;">Privasi</li>
+					<li>Persyaratan</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
